@@ -31,7 +31,7 @@ I love solving problems step by step and sharing elegant solutions as milestones
 ---
 
 ## 📊 GitHub Stats
-![Jeswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Jeswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeswin-Madona&show_icons=true&theme=radical)
 
 ---
 
