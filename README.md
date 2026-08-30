@@ -1,45 +1,130 @@
-# 👋 Hi, I'm Jeswin!
+# Hi, I'm Jeswin Madona 👋
 
-Welcome to my GitHub portfolio!  
-I'm a motivated learner and developer, passionate about **Java, SQL, DSA and Web Development**.  
-I love solving problems step by step and sharing elegant solutions as milestones in my learning journey.
+### Aspiring Java Full Stack Developer | Problem Solver | Building Real-World Applications
 
----
+I'm a Computer Science student passionate about building scalable applications and continuously improving my problem-solving skills. Currently focused on strengthening my foundation in **Java, Data Structures & Algorithms, SQL, and Full Stack Development**.
 
-## 🚀 About Me
-- 🎓 Lifelong learner focused on mastering **Java, SQL, and algorithmic problem-solving**.
-- 🌱 Currently building projects and refining my coding skills.
-- 💡 I believe in consistency, authenticity, and gratitude in everything I do.
-- 📖 Sharing my growth through certificates, projects, and reflections.
+I enjoy turning ideas into projects, learning new technologies, and documenting my journey as I grow as a developer.
 
 ---
 
-## 🛠️ Skills & Tools
-- **Languages:** Java, SQL 
-- **Databases:** MySQL
-- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA  
-- **Other Interests:** Algorithms, Data Structures, Problem Solving
+## 👨‍💻 About Me
+
+* 🎓 Computer Science Engineering student
+* ☕ Focused on becoming a **Java Full Stack Developer**
+* 🧠 Actively practicing **Data Structures & Algorithms**
+* 🗄️ Strengthening my knowledge in **SQL and Database Design**
+* 🚀 Building real-world projects using modern technologies
+* 🌱 Always learning, experimenting, and improving
 
 ---
 
+## 🛠️ Tech Stack
 
-## 🎓 Certificates & Milestones
-- ✅ Completed [C-Programming]
-- ✅ Achieved [Completing 60+ coding problems]
-- ✨ More coming soon!
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
+
+### ⚙️ Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,maven" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
+
+### 🗄️ Databases & Backend Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,eclipse" />
+</p>
+
+### 🤖 Automation & AI Development Tools
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" />
+  <img src="https://img.shields.io/badge/Pipedream-000000?style=for-the-badge&logo=pipedream&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-AI%20Development-blue?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 What I'm Currently Working On
+
+* 🔹 Improving my **Data Structures & Algorithms** skills
+* 🔹 Building projects with **Java & Spring Boot**
+* 🔹 Learning modern **Java Full Stack Development**
+* 🔹 Exploring **AI-powered applications and automation**
+* 🔹 Strengthening my understanding of **System Design fundamentals**
+
+---
+
+## 💻 Featured Areas
+
+**☕ Java Development**
+Building backend applications and exploring enterprise Java development.
+
+**🧠 Problem Solving**
+Practicing algorithms and data structures to improve logical thinking and coding skills.
+
+**🌐 Full Stack Development**
+Building end-to-end applications with modern frontend and backend technologies.
+
+**⚙️ Automation & AI**
+Exploring AI workflows, automation tools, and intelligent application development.
 
 ---
 
 ## 📊 GitHub Stats
-![Jeswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeswin-Madona&show_icons=true&theme=radical)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeswin-Madona&theme=github_dark" />
+</p>
+
 
 ---
 
-## 🌐 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/jeswinmadona)  
-- 📧 Email: jeswin.madona26@gmail.com  
-- [Twitter](https://x.com/JeswinMadona)
+## 🤝 Let's Connect & Code
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeswinmadona">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:jeswin.madona26@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/JeswinMadona">
+    <img src="https://cdn.simpleicons.org/x/000000" height="40" alt="X" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/user9156CI/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/jeswinma59mo?tab=activity">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="40" alt="GeeksforGeeks" />
+  </a>
+</p>
 
 ---
 
-> *"Consistency and gratitude fuel growth."*  
+### 💭 Developer Mindset
+
+> *"Consistency compounds. Every problem solved and every project built is a step forward."*
+
+⭐ Feel free to explore my repositories and follow my journey!
